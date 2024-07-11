@@ -1,0 +1,57 @@
+wx_phrase:
+  Cloudy: 0
+  Fair: 1
+  Heavy Rain Shower: 2
+  Heavy T-Storm: 3
+  Light Rain: 4
+  Light Rain Shower: 5
+  Light Rain Shower / Windy: 6
+  Light Rain with Thunder: 7
+  Mist: 8
+  Mostly Cloudy: 9
+  Mostly Cloudy / Windy: 10
+  Partly Cloudy: 11
+  Partly Cloudy / Windy: 12
+  Rain: 13
+  Rain Shower: 14
+  Showers in the Vicinity: 15
+  Squalls: 16
+  T-Storm: 17
+  T-Storm / Windy: 18
+  Thunder: 19
+  Thunder in the Vicinity: 20
+
+wdir_cardinal:
+  CALM: 0
+  E: 1
+  ENE: 2
+  ESE: 3
+  N: 4
+  NE: 5
+  NNE: 6
+  NNW: 7
+  NW: 8
+  S: 9
+  SE: 10
+  SSE: 11
+  SSW: 12
+  SW: 13
+  VAR: 14
+  W: 15
+  WNW: 16
+  WSW: 17
+
+uv_desc:
+  Extreme: 0
+  High: 1
+  Low: 2
+  Moderate: 3
+  Very High: 4
+
+clds:
+  BKN: 0
+  CLR: 1
+  FEW: 2
+  OVC: 3
+  SCT: 4
+
